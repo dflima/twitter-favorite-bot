@@ -1,0 +1,22 @@
+{
+  "name": "twitter-bot",
+  "version": "1.0.0",
+  "description": "Node.js Twitter Bot",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dflima/twitter-favorite-bot.git"
+  },
+  "author": "Danilo Lima",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dflima/twitter-favorite-bot/issues"
+  },
+  "homepage": "https://github.com/dflima/twitter-favorite-bot#readme",
+  "dependencies": {
+    "twitter": "~1.7.1"
+  }
+}
